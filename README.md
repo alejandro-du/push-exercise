@@ -1,4 +1,4 @@
-# Push exercise
+# Server Push Exercise
 
 ## Running the application
 
